@@ -29,7 +29,7 @@ public class PassDemoSelenium {
         }
         
         @Test
-        public void verifyHomepageTitleFailTestCase() {
+        public void verifyFailTC() {
              
             System.out.println("launching Chrome browser"); 
             System.setProperty("webdriver.chrome.driver", "C:\\Users\\d.d\\Downloads\\chromedriver_win32\\chromedriver.exe");

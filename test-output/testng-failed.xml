@@ -5,7 +5,7 @@
     <classes>
       <class name="DemoSelenium.DemoSelenium.PassDemoSelenium">
         <methods>
-          <include name="verifyHomepageTitleFailTestCase"/>
+          <include name="verifyFailTC"/>
         </methods>
       </class> <!-- DemoSelenium.DemoSelenium.PassDemoSelenium -->
     </classes>
